@@ -36,7 +36,7 @@ export default {
 
 Bring a __high quality product__ for a __low price__.
 
-So, Devin got to work making free releases and even a couple of paid ones along with working on many commissions.
+So, Devin got to work making free releases and even a couple of paid ones with this mission in mind.
 
 *If you are looking for legal information regarding purchasing assets from out third party service "Tebex", here is their [terms](https://conway-development.tebex.io/terms/checkout) & [privacy](https://conway-development.tebex.io/terms/privacy)
 Company policy can also be found in the <#986415121523937290> channel.*`)
